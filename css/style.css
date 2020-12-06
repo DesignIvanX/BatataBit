@@ -303,11 +303,11 @@ header{
 .plans-content--card > p{
   position: absolute;
   top: -15px;
-  left: calc(50% - 85px);
+  left: calc(50% - 90px);
   background-color: var(--bitcoin-orange);
   padding: 6px;
   border-radius: 8px;
-  color: var(--off-white);
+  color: #e7f5ff;
   font-size: 1.5rem;
   font-weight: bold;
 }
@@ -351,7 +351,14 @@ header{
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  color: var(--off-white);
-  font-size: 1.4rem;
+  color: var(--black);
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.footer-content--text p:hover{
+  color: var(--just-white);
+}
+.footer-content--img img{
+  width: 100px;
 }
 /* END FOOTER */
