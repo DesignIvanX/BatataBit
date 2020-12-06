@@ -1,0 +1,8 @@
+.main-currency-table{
+  margin: 0 auto;
+}
+@media screen and (min-width: 960px){
+.plans-content--card{
+  margin: 40px auto;
+}
+}
