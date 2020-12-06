@@ -9,7 +9,7 @@
   --black: #201e1c;
   --off-white: #faf8f7;
   --just-white: #fff;
-  --grey: #bababa;
+  --grey: #000000;
 }
 /* * */
 * {
@@ -111,7 +111,7 @@ header{
 .main-exchange-content .main-exchange--text p{
   padding: 0 .5em;
   margin-top: 2em;
-  color: #757575;
+  color: #454545;
   font-weight: 500;
 }
 .main-table-content{
@@ -157,7 +157,7 @@ header{
 }
 .currency-table--container .table__rigth{
   font-weight: bold;
-  color: #757575;
+  color: #454545;
 }
 .arrow-up{
   height: 10px;
@@ -206,7 +206,7 @@ header{
   font-size: 1.6rem;
 }
 .main-text p{
-  color: #757575;
+  color: #acabab;
   margin-top: 1em;
 }
 .main-card--content{
@@ -232,7 +232,7 @@ header{
   padding: .3em 0;
 }
 .main-card--content .box-content p{
-  color: #757575;
+  color: #acabab;
 }
 /* END CONTENT PRODUCT */ 
 /* CONTENT IMG */
@@ -273,7 +273,7 @@ header{
   color: var(--black);
 }
 .main-plans-container .plans--text p{
-  color: #757575;
+  color: #454545;
   margin: 15px 0;
 }
 .plans-container--slider{
@@ -322,7 +322,7 @@ header{
   font-weight: bold;
 }
 .plans-content--card div .save-money{
-  color: #757575;
+  color: #454545;
 }
 .plans--button{
   width: 150px;
