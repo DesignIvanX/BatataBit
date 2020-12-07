@@ -1,3 +1,10 @@
+/* 
+1.Posicionamiento
+2.Modelo de caja (Box model)
+3.Tipo grafia
+4.Estilos visuales
+5.Otros
+*/
 :root 
 {
   /* Colors */
@@ -128,13 +135,13 @@ header{
   scroll-snap-align: center;
 }
 .main-currency-table > p{
-  color: var(--bitcoin-orange);
-  background-color: var(--grey);
+  background-color: var(--bitcoin-orange); 
+  color: var(--grey);
   border-radius: 10px;
-  padding: 5px;
+  padding: 3px;
   font-weight: bold;
   text-align: center;
-  font-size: 2.2rem;
+  font-size: 2rem;
   margin: .8em 0;
 }
 .currency-table--container{
@@ -307,10 +314,10 @@ header{
   position: absolute;
   top: -20px;
   left: calc(50% - 90px);
-  background-color: var(--grey);
+  background-color: var(--bitcoin-orange); 
+  color: var(--grey);
   padding: 8px;
   border-radius: 8px;
-  color: var(--bitcoin-orange);
   font-size: 1.5rem;
   font-weight: bold;
 }
@@ -354,7 +361,7 @@ header{
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  color: var(--black);
+  color: var(--warm-black);
   font-size: 1.2rem;
   font-weight: bold;
 }
