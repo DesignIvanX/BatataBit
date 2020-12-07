@@ -73,9 +73,9 @@ header{
   font-weight: bold;
   transition: box-shadow 500ms ease;
 }
-.header--content .header--button:hover {
+/* .header--content .header--button:hover {
   box-shadow: 0 0 10px rgba(89, 73, 30, 0.246) inset;
-}
+} */
 .header--content .header--button span{
   display: inline-block;
   width: 13px;
